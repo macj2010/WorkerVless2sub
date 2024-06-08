@@ -13,6 +13,9 @@ let addresses = [
 let addressesapi = [
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	'https://gist.githubusercontent.com/macj2010/080315708bdb6063c2d16ef31b53791d/raw/ip_xyz.txt', //引用gist
+	'https://gist.githubusercontent.com/macj2010/080315708bdb6063c2d16ef31b53791d/raw/ip_90k.txt', //引用gist
+	'https://gist.githubusercontent.com/macj2010/080315708bdb6063c2d16ef31b53791d/raw/ip_preserve.txt', //引用gist
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
